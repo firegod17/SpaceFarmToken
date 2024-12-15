@@ -1,0 +1,23 @@
+{
+    "name": "Space Farm Token List",
+    "timestamp": "2024-12-14T00:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://www.crypto-farm.space/0x873b1bbaf0d2e8d907fc6504abeb961b8f9df40f.png",
+    "tokens": [
+        {
+
+            "chainId": 8453,
+            "address": "0x873b1bbaf0d2e8d907fc6504abeb961b8f9df40f",
+            "symbol": "SFTX",
+            "name": "Space Farm Token",
+            "decimals": 18,
+            "logoURI": "https://www.crypto-farm.space/0x873b1bbaf0d2e8d907fc6504abeb961b8f9df40f.png"
+
+            
+        }
+    ]
+}
